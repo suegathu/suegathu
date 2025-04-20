@@ -31,8 +31,18 @@
 A hotel booking system with separate **admin** and **client** dashboards. Users can search and book hotels, while admins manage bookings and listings.
 
 - 🌐 [Admin Panel](https://bookings-admin-one.vercel.app/)
+  - **Login Credentials**:  
+    - **Email**: `test1@gmail.com`  
+    - **Password**: `test112345`
+  - **Admin Features**:
+    - Manage rooms: **Create**, **update** and **Delete** rooms.
+    - Manage customer bookings: **Approve** or **Disapprove** bookings.
+    - View booking details and update booking status.
+  
 - 🌐 [User Frontend](https://bookings-client-three.vercel.app/)
 - 🧰 **Stack**: MongoDB, Express.js, React.js, Node.js (MERN)
+
+---
 
 ---
 
