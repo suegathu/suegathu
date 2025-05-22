@@ -83,11 +83,11 @@ An all-in-one travel planning and booking app.
 🛠️ **Stack**: React.js, Django REST Framework, PostgreSQL, Tailwind CSS  
 🔌 **APIs**: OpenStreetMap, Pexels, Paystack, Aviationstack, Leaflet.js
 
----
+--- [Live Demo](https://travel-buddy-frontend-xi.vercel.app/)
 
 ## 📫 Let's Connect!
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/Susan Gathu/)
 - 📧 suzzainnegathu@gmail.com
 
 ---
